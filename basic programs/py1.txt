@@ -1,0 +1,10 @@
+list=["geeks","for","geeks"]
+print(len(list))
+print(list[0])
+print(list[2])
+print(list[-1])
+
+3
+geeks
+geeks
+geeks

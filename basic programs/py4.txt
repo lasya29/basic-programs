@@ -1,0 +1,7 @@
+list=[]
+list2=['for','sample']
+list.append(list2)
+print(list2)
+
+
+['for', 'sample']
